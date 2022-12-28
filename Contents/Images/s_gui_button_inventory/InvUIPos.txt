@@ -1,0 +1,11 @@
+weapon 1	243, 130
+weapon 2	675, 130
+necklace		486,  49
+head 		567, 211
+armor		351, 184
+cape		459, 184
+boots		567,  49
+belt		567, 130
+glove		351,  49
+ring 1		432,  76
+ring 2		432,  22

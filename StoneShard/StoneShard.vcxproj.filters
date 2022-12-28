@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Main.h" />
+    <ClInclude Include="ButtonUI.h">
+      <Filter>ParentClass</Filter>
+    </ClInclude>
+    <ClInclude Include="SkipButton.h">
+      <Filter>ButtonUI\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="SkillButton.h">
+      <Filter>ButtonUI\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingButton.h">
+      <Filter>ButtonUI\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="QuestButton.h">
+      <Filter>ButtonUI\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="InvButton.h">
+      <Filter>ButtonUI\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="CharButton.h">
+      <Filter>ButtonUI\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ModeButton.h">
+      <Filter>ButtonUI\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerMenu.h">
+      <Filter>MenuUI</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerInv.h">
+      <Filter>Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="InventorySlot.h">
+      <Filter>Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="VerrenPlayer.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="StartScene.h">
+      <Filter>DungeonScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>ParentClass</Filter>
+    </ClInclude>
+    <ClInclude Include="MapObject.h">
+      <Filter>DungeonScene</Filter>
+    </ClInclude>
+    <ClInclude Include="VemMonster.h">
+      <Filter>Monster</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="ButtonUI.cpp">
+      <Filter>ParentClass</Filter>
+    </ClCompile>
+    <ClCompile Include="CharButton.cpp">
+      <Filter>ButtonUI</Filter>
+    </ClCompile>
+    <ClCompile Include="InvButton.cpp">
+      <Filter>ButtonUI</Filter>
+    </ClCompile>
+    <ClCompile Include="SkillButton.cpp">
+      <Filter>ButtonUI</Filter>
+    </ClCompile>
+    <ClCompile Include="SkipButton.cpp">
+      <Filter>ButtonUI</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingButton.cpp">
+      <Filter>ButtonUI</Filter>
+    </ClCompile>
+    <ClCompile Include="QuestButton.cpp">
+      <Filter>ButtonUI</Filter>
+    </ClCompile>
+    <ClCompile Include="ModeButton.cpp">
+      <Filter>ButtonUI</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerMenu.cpp">
+      <Filter>MenuUI</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerInv.cpp">
+      <Filter>Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="InventorySlot.cpp">
+      <Filter>Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="VerrenPlayer.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="StartScene.cpp">
+      <Filter>DungeonScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>ParentClass</Filter>
+    </ClCompile>
+    <ClCompile Include="MapObject.cpp">
+      <Filter>DungeonScene</Filter>
+    </ClCompile>
+    <ClCompile Include="VemMonster.cpp">
+      <Filter>Monster</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="ParentClass">
+      <UniqueIdentifier>{335e2ca4-7046-479a-9d92-5f5228c7857d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ButtonUI">
+      <UniqueIdentifier>{ca24b55f-b3d8-4808-8920-00631a312073}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ButtonUI\Header">
+      <UniqueIdentifier>{a28ccb98-9919-4079-b4da-daf870650156}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MenuUI">
+      <UniqueIdentifier>{248a7877-3ca8-47f7-a59d-8aa0fe0053f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Inventory">
+      <UniqueIdentifier>{64e52a87-261a-49b8-b2bc-90151a8f6f76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Player">
+      <UniqueIdentifier>{8ab114d7-220c-467a-83a0-fc6b3d3ad9b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DungeonScene">
+      <UniqueIdentifier>{86ac6dd2-0224-4185-a742-8ea9d7718bfa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Monster">
+      <UniqueIdentifier>{befca9dc-5bfa-4bfc-8ed6-fe275b661a98}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

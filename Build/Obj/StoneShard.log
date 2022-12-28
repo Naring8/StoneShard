@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 중간 디렉터리(E:\StoneShard_PC\\Build\Obj\)에 다른 프로젝트(Game1.vcxproj, Game2.vcxproj, TileMapEditor.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  StartScene.cpp
+     E:\StoneShard_PC\\Build\StoneShard.lib 라이브러리 및 E:\StoneShard_PC\\Build\StoneShard.exp 개체를 생성하고 있습니다.
+  StoneShard.vcxproj -> E:\StoneShard_PC\Build\StoneShard.exe
