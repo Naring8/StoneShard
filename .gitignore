@@ -1,9 +1,12 @@
 .vs
-2DFrameWork
-Game1
-Game2
-StoneShard
-TileMap
-TileMapEditor
-Txt
+
+# Ignore Files
+/2DFrameWork
+/Game1
+/Game2
+/StoneShard
+/TileMap
+/TileMapEditor
+/Txt
 2DFrameWork.sln
+
